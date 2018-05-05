@@ -1,0 +1,16 @@
+{
+  "name": "helloapi-codealong",
+  "version": "1.0.0",
+  "description": "Hello World API code along project practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nathaniel burciaga <nathanielburciaga25@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17"
+  }
+}
